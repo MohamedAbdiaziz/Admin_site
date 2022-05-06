@@ -1,0 +1,15 @@
+.chart
+{
+    margin: 20px;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 11px -1px #000000; 
+    box-shadow: 0px 0px 11px -1px #bab4b4;
+}
+.chartTitle
+{
+    margin-bottom: 20px;
+}
+span{
+    align-items: center;
+    color: #686868;
+}
